@@ -1,0 +1,12 @@
+.git
+.ignore
+.vscode
+.pnpm-store
+*Dockerfile*
+*docker-compose*
+node_modules
+**/node_modules
+**/dist
+**/build
+**/uploads
+**/.turbo

@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "declaration": true,
+    "removeComments": true,
+    "baseUrl": "./src",
+    "skipLibCheck": true,
+    "module": "commonJS",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "incremental": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "outDir": "./dist",
+    "target": "ES2021"
+  },
+  "exclude": ["node_modules", "dist"]
+}

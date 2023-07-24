@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": [
+    "node_modules",
+    "dist",
+    "migrations",
+    "migrate.ts",
+    "drizzle.config.ts"
+  ]
+}
